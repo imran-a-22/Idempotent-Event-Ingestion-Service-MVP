@@ -1,0 +1,17 @@
+{
+  "name": "idempotent-event-ingestion-service-mvp",
+  "version": "1.0.0",
+  "description": "MVP Express API for idempotent event ingestion with in-memory storage.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
