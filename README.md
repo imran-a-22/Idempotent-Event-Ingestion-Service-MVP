@@ -1,5 +1,4 @@
 # Idempotent-Event-Ingestion-Service-MVP
-# Idempotent Event Ingestion Service
 
 ## Overview
 
